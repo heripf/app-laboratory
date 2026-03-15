@@ -1,0 +1,25 @@
+{
+  "name": "app-laboratory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heripf/app-laboratory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heripf/app-laboratory/issues"
+  },
+  "homepage": "https://github.com/heripf/app-laboratory#readme",
+  "dependencies": {
+    "lit": "^3.3.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
