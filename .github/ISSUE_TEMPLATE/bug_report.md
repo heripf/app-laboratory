@@ -1,4 +1,13 @@
---DEscribe el error--
+---
+name: Bug report
+about: Creaun reortede error para ayudarnos a mejorar
+title: Descripción breve
+labels: bug 
+assignees: ''
+
+---
+
+--Describe el error--
 Una descripcion clara y concisa del error
 
 --Reproducir--
